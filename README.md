@@ -62,5 +62,7 @@ Liberating Structures website: http://www.liberatingstructures.com/
 
 Article on Liberating Structures by Lisa Gill, with simple overview: https://medium.com/@reimaginaire/what-are-liberating-structures-de6f6d14c2c8
 
+Open Change Academy resources on Liberating Structures: https://www.openchangeacademy.co.uk/liberating-structures
+
 25/10 Crowd Sourcing on Liberating Structures website: http://www.liberatingstructures.com/12-2510-crowd-sourcing/
 
