@@ -1,7 +1,7 @@
 # 5 things that help us do effective content design
 Resources from Dan's ConCon9 session, '5 things that help us do effective content design'.
 
-Slide deck is here (PDF, 83mb).
+Slide deck on Dropbox (PDF, 83mb): https://www.dropbox.com/s/1482uuyqca7sz4n/5-things_concon9_dan-howarth.pptx?dl=0
 
 ## Links for session
 
