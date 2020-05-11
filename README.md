@@ -14,7 +14,7 @@ Smartsheet grid – sorry, this is very hacky at the moment and not accessible. 
 
 ### Government design principles
 
-Government design principles: 
+Government design principles: https://www.gov.uk/guidance/government-design-principles
 
 Blog post on gov design principles posters: https://designnotes.blog.gov.uk/2019/09/18/new-design-principles-posters/
 
