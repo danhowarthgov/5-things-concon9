@@ -1,7 +1,7 @@
 # 5 things that help us do effective content design
 Resources from Dan Howarth's ConCon9 session – '5 things that help us do effective content design' – 11/5/2020 on Zoom.
 
-View the <a href="https://github.com/danhowarthdwp/5-things-concon9/edit/master/README.md">full readme file</a> for all links and resources.
+View the <a href="https://github.com/danhowarthdwp/5-things-concon9/blob/master/README.md">full readme file</a> for all links and resources.
 
 
 ## Slide deck
