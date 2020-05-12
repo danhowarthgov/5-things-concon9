@@ -1,7 +1,13 @@
 # 5 things that help us do effective content design
 Resources from Dan Howarth's ConCon9 session – '5 things that help us do effective content design' – 11/5/2020 on Zoom.
 
-Slide deck on Dropbox (PPTX, 83mb): https://www.dropbox.com/s/1482uuyqca7sz4n/5-things_concon9_dan-howarth.pptx?dl=0
+
+## Slide deck
+
+Zip file with PPTX slide deck (.zip, 7.9mb) is in this repo. Had to remove gifs and other images due to file size limit: https://github.com/danhowarthdwp/5-things-concon9/blob/master/5-things_concon9_dan-howarth_nogifs.pptx.zip
+
+Slide deck with gifs is on Dropbox (PPTX, 83mb): https://www.dropbox.com/s/1482uuyqca7sz4n/5-things_concon9_dan-howarth.pptx?dl=0
+
 
 ## Links for session
 
@@ -66,3 +72,4 @@ Open Change Academy resources on Liberating Structures: https://www.openchangeac
 
 25/10 Crowd Sourcing on Liberating Structures website: http://www.liberatingstructures.com/12-2510-crowd-sourcing/
 
+Liberating Structures app for Android on Google Play (hat tip to Martin Wake): https://play.google.com/store/apps/details?id=de.holisticon.app.ls&hl=en_GB
