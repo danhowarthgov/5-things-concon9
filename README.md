@@ -9,11 +9,13 @@ Zip file with PPTX slide deck (.zip, 7.9mb) is in this repo. Had to remove gifs 
 Slide deck with gifs is on Dropbox (PPTX, 83mb): https://www.dropbox.com/s/1482uuyqca7sz4n/5-things_concon9_dan-howarth.pptx?dl=0
 
 
-## Links for session
+## Links for virtual 25/10 Crowd Sourcing workshop
 
 Smartsheet form: https://app.smartsheet.com/b/form/1d501efc3c774374ae5be89f3c135451
 
 Smartsheet grid – sorry, this is very hacky at the moment and not accessible. I'll fix it in the next iteration: https://contentwise.org.uk/concon
+
+Don't get too excited. This didn't really work in the session. I tried to control the Smartsheet too tightly with ID numbers that correspond to rows. 70% of participants submitted an idea (which was amazing) but the gaps threw the ordering. I think it could work with a few more tries.
 
 
 ## Links for further reading
