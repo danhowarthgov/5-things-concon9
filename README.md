@@ -19,6 +19,8 @@ Smartsheet grid – sorry, this is very hacky at the moment and not accessible. 
 
 Don't get too excited. This didn't really work in the session. I tried to control the Smartsheet too tightly with ID numbers that correspond to rows. 70% of participants submitted an idea (which was amazing) but the gaps threw the ordering. I think it could work with a few more tries.
 
+The Smartsheet grid might not be available after 7/6/2020, as I've now downgraded it to a free plan. Either way, it's now read-only.
+
 
 ## Links for further reading
 
