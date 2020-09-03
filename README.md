@@ -51,7 +51,7 @@ Design patterns in GOV.UK design system: https://design-system.service.gov.uk/pa
 
 About user needs in GOV.UK Service Manual: https://www.gov.uk/service-manual/user-research/start-by-learning-user-needs
 
-Will Myddleton's blog post on research heresies, from a talk he gave at UX Brighton in 2018: http://www.myddelton.co.uk/blog/research-heresies
+Will Myddelton's blog post on research heresies, from a talk he gave at UX Brighton in 2018: http://www.myddelton.co.uk/blog/research-heresies
 
 
 ### Hypothesis-driven design
